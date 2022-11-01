@@ -13,6 +13,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@astrojs/rss": "^1.0.3",
     "astro": "^1.6.0"
   },
   "devDependencies": {
